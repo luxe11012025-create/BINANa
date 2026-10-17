@@ -1,0 +1,8 @@
+{
+  "name": "Remix BTC 5M Predictor Terminal \u0026 Binance Futures Quant Engine",
+  "description": "Real-time Binance USDⓈ-M Futures BTC 5-minute directional ML predictor, orderbook imbalance \u0026 CVD flow analyzer, live evaluation tracker, and production Python script hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
